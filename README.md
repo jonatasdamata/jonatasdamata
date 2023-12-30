@@ -1,13 +1,10 @@
-### Olá, eu sou o Jonatas da Mata! 🙋🏻‍♂️
+# Olá, eu sou o Jonatas da Mata! 🙋🏻‍♂️
 
-[![Blog](https://img.shields.io/badge/JONATASDAMATA-UP-76B900?style=for-the-badge&logo=nvidia&logoColor=white)](https://jonatasdamata.com)
-[![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://jonatasdamata.com)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white
-)](https://jonatasdamata.com)
+Sou apaixonado pela tecnologia e atualmente aluno de Engenharia de Software na Universidade Estácio. Estou constantemente me aprimorando, adquirindo conhecimentos e habilidades com ênfase no desenvolvimento front-end, utilizando JavaScript, React.js, TypeScript, CSS e HTML, e também no desenvolvimento back-end, utilizando PHP e Node.js. Possuo experiência com bancos de dados, incluindo Firebase, MongoDB e SQL, e expertise na criação e consumo de APIs RESTful.
 
-![Jonatas GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatasdamata&show_icons=true&theme=dracula)
 
-## Tecnologias do meu dia a dia
+## Tecnologias que uso para Programar / Desenvolver
+
 
 <div style="display: inline_block"> <br/>
     <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
@@ -17,4 +14,5 @@
     <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
 </div> <br/>
 
-Apaixonado por tecnologia!
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasdamata&layout=compact) ![Jonatas GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatasdamata&show_icons=true&theme=radical)
