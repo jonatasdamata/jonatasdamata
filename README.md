@@ -16,3 +16,29 @@ Sou apaixonado pela tecnologia e atualmente aluno de Engenharia de Software na U
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasdamata&layout=compact) ![Jonatas GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatasdamata&show_icons=true&theme=radical)
+
+# Principais Repositórios
+
+<div align='center'>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonatasdamata&repo=sistema-chamados-react&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/jonatasdamata/sistema-chamados-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonatasdamata&repo=lista-de-tarefas-react&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/jonatasdamata/lista-de-tarefas-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonatasdamata&repo=projeto-filme-react&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/jonatasdamata/projeto-filme-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonatasdamata&repo=projeto-login&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/jonatasdamata/projeto-login)
+
+</div>
+
+<hr>
+
+## Contatos
+
+<div style="display: inline_block"> <br/>
+    <img align="center" alt="email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> jonatasdamata1@hotmail.com <br/>
+    <img align="center" alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />  (71) 9 9126-4409
+
+</div> <br/>
+
+
+
+#
+> **Obrigado por visitar o meu perfil!** 👋🏽
