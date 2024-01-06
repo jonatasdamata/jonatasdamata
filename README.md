@@ -22,7 +22,7 @@ Sou apaixonado pela tecnologia e atualmente aluno de Engenharia de Software na U
 <div align='center'>
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonatasdamata&repo=sistema-chamados-react&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/jonatasdamata/sistema-chamados-react)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonatasdamata&repo=todolist-typescript-reactt&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/jonatasdamata/todolist-typescript-react)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonatasdamata&repo=todolist-typescript-react&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/jonatasdamata/todolist-typescript-react)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonatasdamata&repo=projeto-filme-react&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/jonatasdamata/projeto-filme-react)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=jonatasdamata&repo=projeto-login&bg_color=00000000&text_color=ffffff&hide_border=false&card_width=100)](https://github.com/jonatasdamata/projeto-login)
 
