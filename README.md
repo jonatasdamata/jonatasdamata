@@ -1,26 +1,16 @@
 # Olá, meu nome é Jonatas da Mata! 🙋🏻‍♂️
 
-Sou estudante de Engenharia de Software. Meu principal objetivo é ingressar no mercado de trabalho e utilizar minhas habilidades para fazer a diferença.
 
-Estou entusiasmado em ampliar a minha atuação e aplicar as minhas habilidades em diversas tecnologias, incluindo:
+### Sobre mim:
 
-☕| Java 
-🐍| Python
-🐘| PHP 
-🟢| Node.js 
-🟣| React.Js
-🟡| JavaScript
-🌐| HTML 
-🎨| CSS 
+• ☕ Amante de tecnologia, café, leitura, filmes e Jiu-jitsu. <br/>
+• 👨🏻‍💻 Estou sempre buscando conhecimento para melhorar minhas habilidades técnicas e soft skills. <br/>
+• 🎯 Meu objetivo é trabalhar como Desenvolvedor de Software e conseguir minha primeira oportunidade na área. <br/>
+• 🎓 Graduando em Engenharia de Software. <br/>
 
-Busco novas oportunidades e desafios na área de Engenharia de Software, onde tenho paixão e conhecimento.
+##
 
-💡| Estou entusiasmado para abraçar novas oportunidades e contribuir com meu conhecimento e paixão pela tecnologia. Estou aberto a desafios que me permitam crescer profissionalmente e fazer a diferença no mundo!
-
-
-## Tecnologias que uso para Programar / Desenvolver
-
-
+### Tecnologias que uso para Programar/Desenvolver:
 <div style="display: inline_block"> <br/>
     <img align="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     <img align="center" alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
@@ -32,20 +22,20 @@ Busco novas oportunidades e desafios na área de Engenharia de Software, onde te
     	
 </div> <br/>
 
+##
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasdamata&layout=compact) ![Jonatas GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatasdamata&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasdamata&layout=compact)  
 
+![Jonatas GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatasdamata&show_icons=true&theme=radical)
 
-<hr>
+## 
 
-## Contatos
-
+### Contatos
 <div style="display: inline_block"> <br/>
-    <img align="center" alt="email" src="https://img.shields.io/badge/Microsoft_Outlook-0078D4?style=for-the-badge&logo=microsoft-outlook&logoColor=white" /> jonatasdamata1@hotmail.com <br/>
-    <img align="center" alt="whatsapp" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />  (71) 9 9126-4409
+    E-mail: jonatasdamata1@hotmail.com <br/>
+    Telefone: (71) 9 9126-4409
 
 </div> <br/>
-
 
 
 #
