@@ -1,6 +1,21 @@
 # Olá, meu nome é Jonatas da Mata! 🙋🏻‍♂️
 
-Sou apaixonado pela tecnologia e atualmente aluno de Engenharia de Software na Universidade Estácio. Estou constantemente me aprimorando, adquirindo conhecimentos e habilidades com ênfase no desenvolvimento front-end, utilizando JavaScript, React.js, TypeScript, CSS e HTML, e também no desenvolvimento back-end, utilizando Python, PHP e Node.js. Possuo experiência com bancos de dados, incluindo Firebase e MongoDB , e em criação e consumo de APIs RESTful.
+Sou estudante de Engenharia de Software. Meu principal objetivo é ingressar no mercado de trabalho e utilizar minhas habilidades para fazer a diferença.
+
+Estou entusiasmado em ampliar a minha atuação e aplicar as minhas habilidades em diversas tecnologias, incluindo:
+
+☕| Java 
+🐍| Python
+🐘| PHP 
+🟢| Node.js 
+🟣| React.Js
+🟡| JavaScript
+🌐| HTML 
+🎨| CSS 
+
+Busco novas oportunidades e desafios na área de Engenharia de Software, onde tenho paixão e conhecimento.
+
+💡| Estou entusiasmado para abraçar novas oportunidades e contribuir com meu conhecimento e paixão pela tecnologia. Estou aberto a desafios que me permitam crescer profissionalmente e fazer a diferença no mundo!
 
 
 ## Tecnologias que uso para Programar / Desenvolver
