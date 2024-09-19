@@ -1,6 +1,5 @@
 # Olá, me chamo Jonatas da Mata! 👋🏼
 
-## Sobre mim
 
 👨🏻‍💻 **Desenvolvedor Backend em formação** e apaixonado por resolver problemas com tecnologia.  
 🎓 Atualmente cursando **Engenharia de Software**.  
