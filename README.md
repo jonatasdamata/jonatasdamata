@@ -20,8 +20,10 @@
 
 ## Estatísticas do GitHub
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasdamata&layout=compact&theme=radical)  
-![Jonatas GitHub stats](https://github-readme-stats.vercel.app/api?username=jonatasdamata&show_icons=true&theme=radical)
+<div style="display: flex;">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jonatasdamata&layout=compact&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatasdamata&show_icons=true&theme=radical" />
+</div>
 
 ---
 
