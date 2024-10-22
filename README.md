@@ -1,7 +1,7 @@
 # Olá, me chamo Jonatas da Mata! 👋🏼
 
 
-👨🏻‍💻 **Desenvolvedor Backend em formação** e apaixonado por resolver problemas com tecnologia.  
+👨🏻‍💻 **Desenvolvedor de Software em formação** e apaixonado por resolver problemas com tecnologia.  
 🎓 Atualmente cursando **Engenharia de Software**.  
 📸 Compartilho conhecimentos e minha rotina de estudos no Instagram: [@jhon_codes](https://instagram.com/jhon_codes), fique à vontade para acompanhar!  
 🎯 Em busca da minha **primeira oportunidade** como **Desenvolvedor de Software**. Estou sempre aprendendo para melhorar minhas **habilidades técnicas** e **soft skills**.  
