@@ -1,10 +1,10 @@
 # Olá, me chamo Jonatas da Mata! 👋🏼
 
 
-👨🏻‍💻 Desenvolvedor Backend e graduando em Engenharia de Software  
-💡 Apaixonado por resolver problemas e criar soluções eficientes 
-🤖 Utilizo tecnologias como Python, SQL e RPA (BotCity, UiPath) para desenvolver sistemas e automações que facilitam o dia a dia das pessoas
-🎯 Atualmente, atuo como estagiário em desenvolvimento, criando soluções práticas e impactantes
+👨🏻‍💻 Desenvolvedor Backend e graduando em Engenharia de Software. <br/>
+💡 Apaixonado por resolver problemas e criar soluções eficientes. <br/>
+🤖 Utilizo tecnologias como Python, SQL e RPA (BotCity, UiPath) para desenvolver sistemas e automações que facilitam o dia a dia das pessoas. <br/>
+🎯 Atualmente, atuo como estagiário em desenvolvimento, criando soluções práticas e impactantes.
 
 ---
 
