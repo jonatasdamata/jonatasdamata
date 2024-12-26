@@ -1,10 +1,10 @@
 # Olá, me chamo Jonatas da Mata! 👋🏼
 
 
-👨🏻‍💻 **Desenvolvedor de Software em formação** e apaixonado por resolver problemas com tecnologia.  
-🎓 Atualmente cursando **Engenharia de Software**.  
-📸 Compartilho conhecimentos e minha rotina de estudos no Instagram: [@jhon_codes](https://instagram.com/jhon_codes), fique à vontade para acompanhar!  
-🎯 Em busca da minha **primeira oportunidade** como **Desenvolvedor de Software**. Estou sempre aprendendo para melhorar minhas **habilidades técnicas** e **soft skills**.  
+👨🏻‍💻 Desenvolvedor Backend e graduando em Engenharia de Software  
+💡 Apaixonado por resolver problemas e criar soluções eficientes 
+🤖 Utilizo tecnologias como Python, SQL e RPA (BotCity, UiPath) para desenvolver sistemas e automações que facilitam o dia a dia das pessoas
+🎯 Atualmente, atuo como estagiário em desenvolvimento, criando soluções práticas e impactantes
 
 ---
 
