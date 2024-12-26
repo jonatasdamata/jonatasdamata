@@ -3,7 +3,7 @@
 
 👨🏻‍💻 Desenvolvedor Backend e graduando em Engenharia de Software. <br/>
 💡 Apaixonado por resolver problemas e criar soluções eficientes. <br/>
-🎯 Atualmente, atuo como estagiário em desenvolvimento, criando soluções práticas e impactantes. <br/>
+🎯 Atualmente, atuo como estagiário em desenvolvimento. <br/>
 🤖 Utilizo tecnologias como Python, SQL e RPA (BotCity, UiPath) para desenvolver sistemas e automações que facilitam o dia a dia das pessoas.
 
 
