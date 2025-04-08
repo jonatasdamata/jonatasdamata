@@ -6,8 +6,8 @@ Sou graduando em Engenharia de Software e apaixonado por tecnologia.
 &nbsp;&nbsp;&nbsp;&nbsp;• 👨🏻‍💻 Tenho experiência com desenvolvimento backend e frontend, utilizando tecnologias como **Python, Java, TypeScript, React**, além de trabalhar com bancos de dados **SQL/NoSQL**.
 
 Busco constantemente aprender, evoluir e construir soluções que gerem impacto real no dia a dia das pessoas.
-
----
+<br>
+<br>
 
 🌐 **Vamos nos conectar!**  
 [LinkedIn](https://linkedin.com/in/jonatasdamata)  
