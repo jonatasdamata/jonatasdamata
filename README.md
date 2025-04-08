@@ -1,4 +1,4 @@
-# Olá, me chamo Jonatas da Mata! 👋🏼
+### Olá, me chamo Jonatas da Mata! 👋🏼
 
 Sou graduando em Engenharia de Software e apaixonado por tecnologia.
 
@@ -9,7 +9,7 @@ Busco constantemente aprender, evoluir e construir soluções que gerem impacto 
 <br>
 <br>
 
-🌐 **Vamos nos conectar!**  
+**Vamos nos conectar!**  
 [LinkedIn](https://linkedin.com/in/jonatasdamata)  
 jonatasdamata1@hotmail.com
 <br>
